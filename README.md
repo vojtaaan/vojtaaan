@@ -1,0 +1,4 @@
+TVOJE MÁMA
+
+
+PRINT("TVOJE MAMA")
